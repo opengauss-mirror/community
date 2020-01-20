@@ -68,5 +68,5 @@ When submitting pull requests, refer to this format:
 - Special notes for your reviewer
 - Release note
 
-See more about [PULL_REQUEST_TEMPLATE](.gitee/PULL_REQUEST_TEMPLATE.md).
+See more about [PULL_REQUEST_TEMPLATE](.gitee/PULL_REQUEST_TEMPLATE.en.md).
 
