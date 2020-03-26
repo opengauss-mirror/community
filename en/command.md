@@ -16,6 +16,23 @@ The Commands incluing as follows:
     <tbody>
         <tr>
             <td>
+                /check-cla
+            </td>
+            <td style="white-space:nowrap;">
+                /check-cla
+            </td>
+            <td>
+                Forces rechecking of the CLA status of a Pull Request.
+                If the Pull Request author has already signed CLA,
+                the label `opengauss-cla/yes` will be added in the Pull Request,
+                If not, the label `opengauss-cla/no` will be added.
+            </td>
+            <td>
+                Anyone
+            </td>
+        </tr>
+        <tr>
+            <td>
                 /lgtm [cancel]
             </td>
             <td style="white-space:nowrap;">

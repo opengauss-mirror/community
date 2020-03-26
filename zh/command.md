@@ -16,6 +16,23 @@ openGauss社区的所有项目都由Bot维护。
     <tbody>
         <tr>
             <td>
+                /check-cla
+            </td>
+            <td style="white-space:nowrap;">
+                /check-cla
+            </td>
+            <td>
+                强制重新检查一个Pull Request的CLA状态。
+                如果Pull Request的作者已经签署CLA，
+                这个Pull Request将会新增一个名为`opengauss-cla/yes`的标签，
+                反之将会新增一个名为`opengauss-cla/no`的标签。
+            </td>
+            <td>
+                任何人
+            </td>
+        </tr>
+        <tr>
+            <td>
                 /lgtm [cancel]
             </td>
             <td style="white-space:nowrap;">
