@@ -1,14 +1,10 @@
 # openGauss社区行为守则
 
-openGauss社区遵守开源社区[《贡献者公约》](https://contributor-covenant.org)V1.4中规定的行为守则，请参考[V1.4版本](https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct.html)
+openGauss社区遵守开源社区[《贡献者公约》](https://contributor-covenant.org)v1.4中规定的行为守则，请参考[v1.4版本](https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct.html)。
 
 
 
-如需举报侮辱、骚扰或其他不可接受的行为，您可以发送邮件至tc@openGauss.org，联系openGauss技术委员会处理。
-
-
-
-## 贡献者们的承诺
+## 贡献者和维护者的承诺
 
 为建设开放友好的环境，我们贡献者和维护者承诺：不论年龄、体型、身体健全与否、民族、性征、性别认同与表征、经验水平、教育程度、社会地位、国籍、相貌、种族、信仰、性取向，我们项目和社区的参与者皆免于骚扰。
 
@@ -44,7 +40,7 @@ openGauss社区遵守开源社区[《贡献者公约》](https://contributor-cov
 
 ## 适用范围
 
-本行为标准适用于本项目。当有人代表本项目或本社区时，本标准亦适用于此人所处的公共平台。
+本行为标准适用于本社区。当有人代表本项目或本社区时，本标准亦适用于此人所处的公共平台。
 
 代表本项目或本社区的情形包括但不限于：使用项目的官方电子邮件、通过官方媒体账号发布消息、作为指定代表参与在线或线下活动等。
 
