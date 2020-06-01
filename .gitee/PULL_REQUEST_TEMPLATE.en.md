@@ -1,4 +1,11 @@
 <!-- Thanks for sending a pull request! -->
+** What type of PR is this? **:
+
+> Uncomment only one, leave it on its own line:
+>
+> /kind bug
+>
+> /kind feature
 
 **What this PR does / why we need it**:
 
