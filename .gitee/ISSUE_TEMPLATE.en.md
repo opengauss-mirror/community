@@ -2,9 +2,9 @@
 
 > Uncomment only one, leave it on its own line: 
 >
-> - kind/bug
+> /kind bug
 >
-> - kind/feature
+> /kind feature
 
 
 **What happened**:
@@ -15,9 +15,3 @@
 
 **Anything else we need to know?**:
 
-**Environment**:
-- Version:
-- OS (e.g. from /etc/os-release):
-- Kernel (e.g. `uname -a`):
-- Install tools:
-- Others:
