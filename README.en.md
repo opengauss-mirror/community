@@ -1,12 +1,24 @@
 # openGauss Community
-English | [简体中文](./README_cn.md)
+English | [简体中文](./README.md)
 
 Welcome to openGauss Community.
 
-
-## Introduction
-
 The Community repository is to store all the information about openGauss Community, including governance, how to contribute, communications and etc. 
+
+## Governance
+
+openGauss has the following types of community organizations that are officially supported:
+
+* [Technical Committee (TC)](https://gitee.com/opengauss/tc/blob/master/README.en.md)
+
+* [Special Interest Groups (SIGs)](https://gitee.com/opengauss/tc/blob/master/sigs/README.en.md)
+
+please read [Governance](/governance.en.md) document to get detailed information.
+
+## Membership
+
+We encourage all contributors to become members. We aim to grow an active, healthy community of contributors.
+Please get more information about the community membership in our [Community Membership](/community-membership.en.md) introducation.
 
 ## How to contribute
 
