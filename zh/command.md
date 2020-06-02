@@ -99,6 +99,23 @@ openGauss社区的所有项目都由Bot维护。
         </tr>
         <tr>
             <td>
+                /[remove-]sig
+            </td>
+            <td style="white-space:nowrap;">
+                /sig sqlengine
+                <br/>
+                /remove-kind sqlengine
+            </td>
+            <td>
+                添加或者删除这种sig类型的标签。
+                例如：`sig/sqlengine`标签。
+            </td>
+            <td>
+                任何人都能在一个Pull Request或者Issue上触发这种命令。
+            </td>
+        </tr>
+        <tr>
+            <td>
                 /close
             </td>
             <td style="white-space:nowrap;">
