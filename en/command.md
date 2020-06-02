@@ -99,6 +99,23 @@ The Commands incluing as follows:
         </tr>
         <tr>
             <td>
+                /[remove-]sig
+            </td>
+            <td style="white-space:nowrap;">
+                /sig sqlengine
+                <br/>
+                /remove-sig sqlengine
+            </td>
+            <td>
+                Applies or removes a sig label from one of the recognized types of labels.
+                For example, the label is more like `sig/sqlengine`.
+            </td>
+            <td>
+                Anyone can trigger this command on a Pull Request or Issue.
+            </td>
+        </tr>
+        <tr>
+            <td>
                 /close
             </td>
             <td style="white-space:nowrap;">
