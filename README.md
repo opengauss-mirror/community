@@ -27,3 +27,20 @@ openGauss社区官方支持以下社区组织：
 当openGauss社区有信息刷新时，这里的文档也需要同步刷新。很感谢您愿意帮助刷新内容。
 
 请阅读[如何贡献](/CONTRIBUTING.md)获得帮助。
+
+## 如何使用CI命令
+
+openGauss社区所有的CI命令都是由Bot来支持，具体请查阅[CI命令](./contributors/command.md)。
+
+## 线上交流
+
+openGauss社区使用IRC，Mailing List等多种渠道进行沟通交流，具体请查阅[线上交流](https://opengauss.org/zh/community/onlineCommunication.html)。
+
+## 线上会议
+
+openGauss社区使用IRC，Welink等多种渠道开展线上会议，具体请查阅[线上会议](https://opengauss.org/zh/community/onlineMeeting.html)。
+
+## 上报CVE
+
+如果您想要上报CVE，具体流程请查阅[上报CVE](https://opengauss.org/zh/security.html)。
+
