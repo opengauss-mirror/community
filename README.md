@@ -34,11 +34,11 @@ openGauss社区所有的CI命令都是由Bot来支持，具体请查阅[CI命令
 
 ## 线上交流
 
-openGauss社区使用IRC，Mailing List等多种渠道进行沟通交流，具体请查阅[线上交流](https://opengauss.org/zh/community/onlineCommunication.html)。
+openGauss社区使用Mailing List，IRC等多种渠道进行沟通交流，具体请查阅[线上交流](https://opengauss.org/zh/community/onlineCommunication.html)。
 
 ## 线上会议
 
-openGauss社区使用IRC，Welink等多种渠道开展线上会议，具体请查阅[线上会议](https://opengauss.org/zh/community/onlineMeeting.html)。
+openGauss社区使用WeLink，IRC等多种渠道开展线上会议，具体请查阅[线上会议](https://opengauss.org/zh/community/onlineMeeting.html)。
 
 ## 上报CVE
 

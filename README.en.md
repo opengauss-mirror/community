@@ -32,12 +32,12 @@ All CI commands in openGauss community are supported by Bot. Please refer to [CI
 
 ## Online Communication
 
-openGauss community uses IRC, Mailing List and other channels for communication.
+openGauss community uses Mailing List, IRC and other channels for communication.
 Please refer to [Online Communication](https://opengauss.org/en/community/onlineCommunication.html) for details.
 
 ## Online Meeting
 
-openGauss community uses IRC, WeLink and other channels to conduct online meeting.
+openGauss community uses WeLink, IRC and other channels to conduct online meeting.
 Please refer to [Online Meeting](https://opengauss.org/en/community/onlineMeeting.html) for details.
 
 ## How to report CVE
