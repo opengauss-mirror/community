@@ -1,4 +1,4 @@
-## OpenGauss社区命令参考文档
+## openGauss社区命令参考文档
 
 openGauss社区的所有项目都由Bot维护。
 这意味着开发人员可以在每个Pull Request或Issue下面进行回复来触发Bot命令。

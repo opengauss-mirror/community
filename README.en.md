@@ -25,3 +25,21 @@ Please get more information about the community membership in our [Community Mem
 When openGauss community is updated, the information should be updated as well here. If you would like to help update the information in this repo, you are very appreciated. 
 
 Please read [How to contribute](CONTRIBUTING.md) to get detailed guidance.
+
+## How to use CI commands
+
+All CI commands in openGauss community are supported by Bot. Please refer to [CI commands](./contributors/command.en.md).
+
+## Online Communication
+
+openGauss community uses Mailing List, IRC and other channels for communication.
+Please refer to [Online Communication](https://opengauss.org/en/community/onlineCommunication.html) for details.
+
+## Online Meeting
+
+openGauss community uses WeLink, IRC and other channels to conduct online meeting.
+Please refer to [Online Meeting](https://opengauss.org/en/community/onlineMeeting.html) for details.
+
+## How to report CVE
+
+If you want to report CVE, please refer to [report CVE](https://opengauss.org/en/security.html) for details.
