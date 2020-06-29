@@ -144,6 +144,20 @@ The Commands incluing as follows:
         </tr>
         <tr>
             <td>
+                /retest
+            </td>
+            <td style="white-space:nowrap;">
+                /retest
+            </td>
+            <td>
+                Rerun test jobs that have failed.
+            </td>
+            <td>
+                Anyone can trigger this command on a Pull Request.
+            </td>
+        </tr>
+        <tr>
+            <td>
                 /assign [[@]...]
             </td>
             <td style="white-space:nowrap;">
