@@ -104,7 +104,7 @@ openGauss社区的所有项目都由Bot维护。
             <td style="white-space:nowrap;">
                 /sig sqlengine
                 <br/>
-                /remove-kind sqlengine
+                /remove-sig sqlengine
             </td>
             <td>
                 添加或者删除这种sig类型的标签。
@@ -140,6 +140,20 @@ openGauss社区的所有项目都由Bot维护。
             </td>
             <td>
                 作者和仓库的协作者能触发这种命令。
+            </td>
+        </tr>
+        <tr>
+            <td>
+                /retest
+            </td>
+            <td style="white-space:nowrap;">
+                /retest
+            </td>
+            <td>
+                重跑测试用例任务。
+            </td>
+            <td>
+                任何人都能在一个Pull Request上触发这种命令。
             </td>
         </tr>
         <tr>
