@@ -5,3 +5,8 @@ companies:
     aliases:
       - Huawei
       - huawei tech
+  - domains:
+      - isoftstone.com
+    company_name: isoftstone
+    aliases:
+      - isoftstone
