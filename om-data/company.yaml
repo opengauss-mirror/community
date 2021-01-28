@@ -10,3 +10,9 @@ companies:
     company_name: isoftstone
     aliases:
       - isoftstone
+  - domains:
+      - chinasoftinc.com
+    company_name: Chinasoft International
+    aliases:
+      - Chinasoft International
+      - chinasoftinc
