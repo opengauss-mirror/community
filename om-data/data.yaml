@@ -37,7 +37,7 @@ users:
   - gitee_id: scarbor_fair
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Vastdata
         end_date: ''
     user_name: scarbor_fair
     emails: [ ]
@@ -170,7 +170,7 @@ users:
   - gitee_id: vastbase_yzhang
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Vastdata
         end_date: ''
     user_name: vastbase_yzhang
     emails: [ ]
@@ -793,7 +793,7 @@ users:
   - gitee_id: hemny
     github_id: ''
     companies:
-      - company_name: 'Vastdata'
+      - company_name: Vastdata
         end_date: ''
     user_name: 海量数据-廖美东
     emails: [hemny@qq.com]
@@ -1052,7 +1052,7 @@ users:
   - gitee_id: tiantianxiangshang2020
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Vastdata
         end_date: ''
     user_name: tiantianxiangshang2020
     emails: [ ]
@@ -1122,7 +1122,7 @@ users:
   - gitee_id: wenbling
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Vastdata
         end_date: ''
     user_name: wenbling
     emails: [ ]
@@ -1416,7 +1416,7 @@ users:
   - gitee_id: april01xxx
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Vastdata
         end_date: ''
     user_name: april01xxx
     emails: [ ]
@@ -2018,7 +2018,7 @@ users:
   - gitee_id: husthxd
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Vastdata
         end_date: ''
     user_name: husthxd
     emails: [ ]
@@ -2788,7 +2788,7 @@ users:
   - gitee_id: vastdata_admin
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Vastdata
         end_date: ''
     user_name: vastdata_admin
     emails: [ ]
