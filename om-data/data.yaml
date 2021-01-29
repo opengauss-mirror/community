@@ -3331,3 +3331,10 @@ users:
         end_date: ''
     user_name: zsfxy
     emails: [ ]
+  - gitee_id: hillseas
+    github_id: ''
+    companies:
+      - company_name: shentongdata
+        end_date: ''
+    user_name: liyongjin
+    emails: [ ]
