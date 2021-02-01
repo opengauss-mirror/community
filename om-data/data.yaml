@@ -128,7 +128,7 @@ users:
   - gitee_id: zhangzhijingMY
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: zhangzhijingMY
     emails: [ ]
@@ -198,7 +198,7 @@ users:
   - gitee_id: chenxiaobin19
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: chenxiaobin19
     emails: [ ]
@@ -464,7 +464,7 @@ users:
   - gitee_id: deadsec
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: deadsec
     emails: [ ]
@@ -548,7 +548,7 @@ users:
   - gitee_id: luo_zihao5524
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: luo_zihao5524
     emails: [ ]
@@ -1164,7 +1164,7 @@ users:
   - gitee_id: xue_meng_en
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: xue_meng_en
     emails: [ ]
@@ -1689,7 +1689,7 @@ users:
   - gitee_id: docker_ming
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: docker_ming
     emails: [ ]
@@ -1906,7 +1906,7 @@ users:
   - gitee_id: hangjin2020
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: HopeRun
         end_date: ''
     user_name: hangjin2020
     emails: [ ]
@@ -1983,7 +1983,7 @@ users:
   - gitee_id: huangchengcheng1
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: huangchengcheng1
     emails: [ ]
@@ -2074,7 +2074,7 @@ users:
   - gitee_id: jiang_jianyu
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: jiang_jianyu
     emails: [ ]
@@ -2956,7 +2956,7 @@ users:
   - gitee_id: xukunpeng
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: xukunpeng
     emails: [ ]
@@ -3089,7 +3089,7 @@ users:
   - gitee_id: yuejiashen
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: yuejiashen
     emails: [ ]
@@ -3337,4 +3337,18 @@ users:
       - company_name: shentongdata
         end_date: ''
     user_name: liyongjin
+    emails: [ ]
+  - gitee_id: ricardo_cui
+    github_id: ''
+    companies:
+      - company_name: Huawei
+        end_date: ''
+    user_name: ricardo_cui
+    emails: [ ]
+  - gitee_id: lixianlin01
+    github_id: ''
+    companies:
+      - company_name: isoftstone
+        end_date: ''
+    user_name: lixianlin01
     emails: [ ]
