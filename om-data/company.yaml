@@ -16,3 +16,23 @@ companies:
     aliases:
       - Chinasoft International
       - chinasoftinc
+  - domains:
+      - vastdata.com.cn
+    company_name: Vastdata
+    aliases:
+      - Vastdata
+  - domains:
+      - shentongdata.com
+    company_name: shentongdata
+    aliases:
+      - shentongdata
+  - domains:
+      - enmotech.com
+    company_name: Enmotech
+    aliases:
+      - Enmotech
+  - domains:
+      - click2cloud.net
+    company_name: Click2Cloud
+    aliases:
+      - Click2Cloud

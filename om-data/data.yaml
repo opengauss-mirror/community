@@ -72,7 +72,7 @@ users:
   - gitee_id: lee1002
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech
         end_date: ''
     user_name: lee1002
     emails: [ ]
@@ -205,7 +205,7 @@ users:
   - gitee_id: llzx373
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech
         end_date: ''
     user_name: llzx373
     emails: [ ]
@@ -394,7 +394,7 @@ users:
   - gitee_id: lys6676
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: shentongdata
         end_date: ''
     user_name: lys6676
     emails: [ ]
@@ -800,7 +800,7 @@ users:
   - gitee_id: husan1024
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: shentongdata
         end_date: ''
     user_name: husan1024
     emails: [ ]
@@ -863,7 +863,7 @@ users:
   - gitee_id: kamusis
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech''
         end_date: ''
     user_name: kamusis
     emails: [ ]
