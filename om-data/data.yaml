@@ -240,7 +240,7 @@ users:
   - gitee_id: yunlongg
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech
         end_date: ''
     user_name: yunlongg
     emails: [ ]
@@ -303,7 +303,7 @@ users:
   - gitee_id: lvhui123456
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech
         end_date: ''
     user_name: lvhui123456
     emails: [ ]
@@ -366,7 +366,7 @@ users:
   - gitee_id: jerome-duomi
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech
         end_date: ''
     user_name: jerome-duomi
     emails: [ ]
@@ -864,7 +864,7 @@ users:
   - gitee_id: kamusis
     github_id: ''
     companies:
-      - company_name: Enmotech''
+      - company_name: Enmotech
         end_date: ''
     user_name: kamusis
     emails: [ ]
@@ -878,7 +878,7 @@ users:
   - gitee_id: kivaking
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech
         end_date: ''
     user_name: kivaking
     emails: [ ]
@@ -2152,7 +2152,7 @@ users:
   - gitee_id: kidd__cn
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: kidd__cn
     emails: [ ]
@@ -2222,7 +2222,7 @@ users:
   - gitee_id: lihongda12
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech
         end_date: ''
     user_name: lihongda12
     emails: [ ]
@@ -2271,7 +2271,7 @@ users:
   - gitee_id: liu_hui199828
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Enmotech
         end_date: ''
     user_name: liu_hui199828
     emails: [ ]
@@ -3097,7 +3097,7 @@ users:
   - gitee_id: yujiangaaa
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: yujiangaaa
     emails: [ ]
@@ -3352,4 +3352,46 @@ users:
       - company_name: isoftstone
         end_date: ''
     user_name: lixianlin01
+    emails: [ ]
+  - gitee_id: xiepy
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: xiepy
+    emails: [ ]
+  - gitee_id: wan005
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: wan005
+    emails: [ ]
+  - gitee_id: shashwati-mishra
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: shashwati-mishra
+    emails: [ ]
+  - gitee_id: liu_hui0228
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: liu_hui0228
+    emails: [ ]
+  - gitee_id: chenhao7253886
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: chenhao7253886
+    emails: [ ]
+  - gitee_id: I-1688
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: I-1688
     emails: [ ]
