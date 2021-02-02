@@ -640,7 +640,7 @@ users:
   - gitee_id: ywzq1161327784
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: ywzq1161327784
     emails: [ ]
@@ -2635,7 +2635,7 @@ users:
   - gitee_id: shirley_zhengx
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: shirley_zhengx
     emails: [ ]
