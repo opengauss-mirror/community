@@ -41,3 +41,8 @@ companies:
     company_name: HopeRun
     aliases:
       - HopeRun
+  - domains:
+      - epro.com.cn
+    company_name: ePRO
+    aliases:
+      - ePRO

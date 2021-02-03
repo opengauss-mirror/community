@@ -163,7 +163,7 @@ users:
   - gitee_id: totaj
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: totaj
     emails: [ ]
@@ -2187,7 +2187,7 @@ users:
   - gitee_id: lesliexx
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: ePRO
         end_date: ''
     user_name: lesliexx
     emails: [ ]
@@ -2551,7 +2551,7 @@ users:
   - gitee_id: qin-wei
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: ePRO
         end_date: ''
     user_name: qin-wei
     emails: [ ]
@@ -2978,7 +2978,7 @@ users:
   - gitee_id: xzx666
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: ePRO
         end_date: ''
     user_name: xzx666
     emails: [ ]
@@ -3321,7 +3321,7 @@ users:
   - gitee_id: zou_jinda
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: ePRO
         end_date: ''
     user_name: zou_jinda
     emails: [ ]
@@ -3394,4 +3394,74 @@ users:
       - company_name: ''
         end_date: ''
     user_name: I-1688
+    emails: [ ]
+  - gitee_id: pig-s-trotters
+    github_id: ''
+    companies:
+      - company_name: Huawei
+        end_date: ''
+    user_name: pig-s-trotters
+    emails: [ ]
+  - gitee_id: lvzixin
+    github_id: ''
+    companies:
+      - company_name: Huawei
+        end_date: ''
+    user_name: lvzixin
+    emails: [ ]
+  - gitee_id: morningwyt
+    github_id: ''
+    companies:
+      - company_name: Huawei
+        end_date: ''
+    user_name: morningwyt
+    emails: [ ]
+  - gitee_id: chenyujiahw
+    github_id: ''
+    companies:
+      - company_name: Huawei
+        end_date: ''
+    user_name: chenyujiahw
+    emails: [ ]
+  - gitee_id: zou-qin
+    github_id: ''
+    companies:
+      - company_name: Chinasoft International
+        end_date: ''
+    user_name: zou-qin
+    emails: [ ]
+  - gitee_id: qiu-kewei
+    github_id: ''
+    companies:
+      - company_name: ePRO
+        end_date: ''
+    user_name: qiu-kewei
+    emails: [ ]
+  - gitee_id: forest_deer
+    github_id: ''
+    companies:
+      - company_name: ePRO
+        end_date: ''
+    user_name: forest_deer
+    emails: [ ]
+  - gitee_id: ssshibai
+    github_id: ''
+    companies:
+      - company_name: ePRO
+        end_date: ''
+    user_name: ssshibai
+    emails: [ ]
+  - gitee_id: zhang_xiaopan
+    github_id: ''
+    companies:
+      - company_name: ePRO
+        end_date: ''
+    user_name: zhang_xiaopan
+    emails: [ ]
+  - gitee_id: ligenghong
+    github_id: ''
+    companies:
+      - company_name: ePRO
+        end_date: ''
+    user_name: ligenghong
     emails: [ ]
