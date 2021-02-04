@@ -1585,7 +1585,7 @@ users:
   - gitee_id: click2cloud_ninja
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Click2Cloud
         end_date: ''
     user_name: click2cloud_ninja
     emails: [ ]
@@ -2663,7 +2663,7 @@ users:
   - gitee_id: sneha-bhiwankar
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Click2Cloud
         end_date: ''
     user_name: sneha-bhiwankar
     emails: [ ]
