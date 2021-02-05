@@ -46,3 +46,18 @@ companies:
     company_name: ePRO
     aliases:
       - ePRO
+  - domains:
+      - guet.edu.cn
+    company_name: Guilin University Of Electronic Technology
+    aliases:
+      - Guilin University Of Electronic Technology
+  - domains:
+      - hnu.edu.cn
+    company_name: Hunan University
+    aliases:
+      - Hunan University
+  - domains:
+      - hunnu.edu.cn
+    company_name: Hunan Normal University
+    aliases:
+      - Hunan Normal University

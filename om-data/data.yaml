@@ -1991,7 +1991,7 @@ users:
   - gitee_id: huangzijian888
     github_id: ''
     companies:
-      - company_name: GUET
+      - company_name: Guilin University Of Electronic Technology
         end_date: ''
     user_name: huangzijian888
     emails: [ ]
@@ -3041,7 +3041,7 @@ users:
   - gitee_id: yinzhishu
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: HopeRun
         end_date: ''
     user_name: yinzhishu
     emails: [ ]
@@ -3174,7 +3174,7 @@ users:
   - gitee_id: zhang_jiecr7
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Hunan Normal University
         end_date: ''
     user_name: zhang_jiecr7
     emails: [ ]
@@ -3230,7 +3230,7 @@ users:
   - gitee_id: zhangyulong34
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: HopeRun
         end_date: ''
     user_name: zhangyulong34
     emails: [ ]
