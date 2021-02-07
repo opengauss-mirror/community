@@ -2306,7 +2306,7 @@ users:
   - gitee_id: liyifeng-seu
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: HopeRun
         end_date: ''
     user_name: liyifeng-seu
     emails: [ ]
@@ -3160,7 +3160,7 @@ users:
   - gitee_id: zerodefect
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: zerodefect
     emails: [ ]
