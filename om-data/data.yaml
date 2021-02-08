@@ -177,7 +177,7 @@ users:
   - gitee_id: willemjiang
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: willemjiang
     emails: [ ]
@@ -226,7 +226,7 @@ users:
   - gitee_id: wang-tq
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: wang-tq
     emails: [ ]
@@ -423,7 +423,7 @@ users:
   - gitee_id: xiezhipeng1
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: xiezhipeng1
     emails: [ ]
@@ -486,7 +486,7 @@ users:
   - gitee_id: enbokang
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: enbokang
     emails: [ ]
@@ -2425,7 +2425,7 @@ users:
   - gitee_id: mujinqiiang
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: mujinqiiang
     emails: [ ]
@@ -3209,7 +3209,7 @@ users:
   - gitee_id: zhangtong1204
     github_id: ''
     companies:
-      - company_name: ''
+      - company_name: Huawei
         end_date: ''
     user_name: zhangtong1204
     emails: [ ]
@@ -3465,13 +3465,6 @@ users:
         end_date: ''
     user_name: ligenghong
     emails: [ ]
-  - gitee_id: wang_tq
-    github_id: ''
-    companies:
-      - company_name: Huawei
-        end_date: ''
-    user_name: wang_tq
-    emails: [ ]
   - gitee_id: jianfenglee
     github_id: ''
     companies:
@@ -3590,4 +3583,32 @@ users:
       - company_name: Vastdata
         end_date: ''
     user_name: ouruiting
+    emails: [ ]
+  - gitee_id: dracoding
+    github_id: ''
+    companies:
+      - company_name: Huawei
+        end_date: ''
+    user_name: dracoding
+    emails: [ ]
+  - gitee_id: cloudyyy1234
+    github_id: ''
+    companies:
+      - company_name: Huawei
+        end_date: ''
+    user_name: cloudyyy1234
+    emails: [ ]
+  - gitee_id: wangxiao65
+    github_id: ''
+    companies:
+      - company_name: HopeRun
+        end_date: ''
+    user_name: wangxiao65
+    emails: [ ]
+  - gitee_id: jpzhang187
+    github_id: ''
+    companies:
+      - company_name: HopeRun
+        end_date: ''
+    user_name: jpzhang187
     emails: [ ]
