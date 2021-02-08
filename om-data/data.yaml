@@ -3500,3 +3500,94 @@ users:
         end_date: ''
     user_name: fgfhgsh
     emails: [ ]
+  - gitee_id: Alacebat_admin
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 黄港
+    emails: [ ]
+  - gitee_id: bang1232
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 刘邦艺
+    emails: [ ]
+  - gitee_id: cui-zhenyu
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 崔振宇
+    emails: [ ]
+  - gitee_id: huangyinfu
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: huangyinfu
+    emails: [ ]
+  - gitee_id: qiumingming
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: qiumingming
+    emails: [ ]
+  - gitee_id: xianhongye
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 冼鸿业
+    emails: [ ]
+  - gitee_id: 282656323
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 字节
+    emails: [ ]
+  - gitee_id: zwgiles
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: zong
+    emails: [ ]
+  - gitee_id: haowen17
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 潘浩文
+    emails: [ ]
+  - gitee_id: xh19
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 熊小熊
+    emails: [ ]
+  - gitee_id: willloong
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: zhangwenlong
+    emails: [ ]
+  - gitee_id: liao-shiting
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 廖诗婷
+    emails: [ ]
+  - gitee_id: ouruiting
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: ouruiting
+    emails: [ ]
