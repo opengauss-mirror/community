@@ -3549,3 +3549,10 @@ users:
         end_date: ''
     user_name: 廖诗婷
     emails: [ ]
+  - gitee_id: ouruiting
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: ouruiting
+    emails: [ ]
