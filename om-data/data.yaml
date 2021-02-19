@@ -3612,3 +3612,80 @@ users:
         end_date: ''
     user_name: jpzhang187
     emails: [ ]
+  - gitee_id: yangweiqiang
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: yangweiqiang
+    emails: [ ]
+  - gitee_id: tengtengsun
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: tengtengsun
+    emails: [ ]
+  - gitee_id: pascal_zhou
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: pascal_zhou
+    emails: [ ]
+  - gitee_id: wu-siliang
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: wu-siliang
+    emails: [ ]
+  - gitee_id: zhengqingfang
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: zhengqingfang
+    emails: [ ]
+  - gitee_id: tieyuanchen
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: tieyuanchen
+    emails: [ ]
+  - gitee_id: Cmb_Sjz
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: Cmb_Sjz
+    emails: [ ]
+  - gitee_id: fc0802
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: fc0802
+    emails: [ ]
+  - gitee_id: hellodoria
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: hellodoria
+    emails: [ ]
+  - gitee_id: huangxuanqi
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: huangxuanqi
+    emails: [ ]
+  - gitee_id: huangwenbo3
+    github_id: ''
+    companies:
+      - company_name: ''
+        end_date: ''
+    user_name: huangwenbo3
+    emails: [ ]
