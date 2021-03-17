@@ -3689,3 +3689,17 @@ users:
         end_date: ''
     user_name: huangwenbo3
     emails: [ ]
+  - gitee_id: zmm0810
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: zmm
+    emails: [ ]
+  - gitee_id: wjf0123
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: wjf
+    emails: [ ]
