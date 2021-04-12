@@ -3703,3 +3703,24 @@ users:
         end_date: ''
     user_name: wjf
     emails: [ ]
+  - gitee_id: zdai96
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: zdai96
+    emails: [ ]
+  - gitee_id: xiaotao-huang
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 'xiaotao huang'
+    emails: [ ]
+  - gitee_id: liao-shiting
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 廖诗婷
+    emails: [ ]
