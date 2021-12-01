@@ -192,6 +192,38 @@ The Commands incluing as follows:
                 If no target user is specified, that means this Issue will be unassigned from yourself.
             </td>
         </tr>
+        <tr>
+            <td>
+                /check-issue
+            </td>
+            <td style="white-space:nowrap;">
+                /check-issue
+            </td>
+            <td>
+                Check whether pull request is associated with issues,
+                if pull request is not associated with issues.
+                this command will add a 'needs-issue' label on pull request.
+                if pull request is associated with issues, 
+                this command will delete the 'needs-issue' label on pull request.
+            </td>
+            <td>
+                Anyone can use this command on a pull request.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                /remove-needs-issue
+            </td>
+            <td style="white-space:nowrap;">
+                /remove-needs-issue
+            </td>
+            <td>
+                Delete the 'needs-issue' label on a pull request.
+            </td>
+            <td>
+                Only collaborators of repository can use this command on a pull request.
+            </td>
+        </tr>
     </tbody>
 </table>
 

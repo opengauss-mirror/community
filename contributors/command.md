@@ -192,6 +192,34 @@ openGauss社区的所有项目都由Bot维护。
                 如果没有指定目标负责人，这表明这个Issue会取消分配给自己。
             </td>
         </tr>
+        <tr>
+            <td>
+                /check-issue
+            </td>
+            <td style="white-space:nowrap;">
+                /check-issue
+            </td>
+            <td>
+                检查Pull Request是否关联了Issue，如果未关联Issue，添加needs-issue标签，如果已关联，则删除needs-issue标签。
+            </td>
+            <td>
+                任何人都能在一个Pull Request上触发这种命令。
+            </td>
+        </tr>
+        <tr>
+            <td>
+                /remove-needs-issue
+            </td>
+            <td style="white-space:nowrap;">
+                /remove-needs-issue
+            </td>
+            <td>
+                删除needs-issue标签。
+            </td>
+            <td>
+                只有仓库成员才能在Pull Request上触发这种命令。
+            </td>
+        </tr>
     </tbody>
 </table>
 
