@@ -3514,12 +3514,12 @@ users:
         end_date: ''
     user_name: 崔振宇
     emails: [ ]
-  - gitee_id: huangyinfu
+  - gitee_id: FantasyHuang
     github_id: ''
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: huangyinfu
+    user_name: Fantasy
     emails: [ ]
   - gitee_id: qiumingming
     github_id: ''
@@ -3533,7 +3533,7 @@ users:
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: 冼鸿业
+    user_name: playrest
     emails: [ ]
   - gitee_id: 282656323
     github_id: ''
@@ -3554,7 +3554,7 @@ users:
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: 潘浩文
+    user_name: wenger
     emails: [ ]
   - gitee_id: xh19
     github_id: ''
@@ -3575,7 +3575,7 @@ users:
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: 廖诗婷
+    user_name: LBBBB
     emails: [ ]
   - gitee_id: ouruiting
     github_id: ''
@@ -3716,13 +3716,6 @@ users:
       - company_name: Vastdata
         end_date: ''
     user_name: 'xiaotao huang'
-    emails: [ ]
-  - gitee_id: liao-shiting
-    github_id: ''
-    companies:
-      - company_name: Vastdata
-        end_date: ''
-    user_name: 廖诗婷
     emails: [ ]
   - gitee_id: Z-H-0201
     github_id: ''
@@ -3926,3 +3919,108 @@ users:
       - company_name: Vastdata
         end_date: ''
     user_name: wangzhuo007
+  - gitee_id: kakaplus
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: kaplus
+    emails: [ ]
+  - gitee_id: qin86
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: qin86
+    emails: [ ]
+  - gitee_id: nnuanyang
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 暖阳
+    emails: [ ]
+  - gitee_id: nuan_dong
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: nuan_dong
+    emails: [ ]
+  - gitee_id: ksky77
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Ksky77
+    emails: [ ]
+  - gitee_id: zoey-m
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Zoey_M
+    emails: [ ]
+  - gitee_id: gyingy
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: gyingy
+    emails: [ ]
+  - gitee_id: on-ew
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: on-ew
+    emails: [ ]
+  - gitee_id: vast_wang
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: tianyazhichi
+    emails: [ ]
+  - gitee_id: apu11
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: apu
+    emails: [ ]
+  - gitee_id: zhangj2
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: zhangj2
+    emails: [ ]
+  - gitee_id: leeh-seven
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: leeh-7
+    emails: [ ]
+  - gitee_id: roxanne315
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: roxanne315
+    emails: [ ]
+  - gitee_id: best_jh
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: bset-jh
+    emails: [ ]
+  - gitee_id: douzt
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: douzt
+    emails: [ ]
