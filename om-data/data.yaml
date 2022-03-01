@@ -208,7 +208,7 @@ users:
       - company_name: Enmotech
         end_date: ''
     user_name: llzx373
-    emails: [ ]
+    emails: [llzx373@hotmail.com]
   - gitee_id: pan-jun
     github_id: ''
     companies:
@@ -305,8 +305,8 @@ users:
     companies:
       - company_name: Enmotech
         end_date: ''
-    user_name: lvhui123456
-    emails: [ ]
+    user_name: 
+    emails: [hui.lv@enmotech.com]
   - gitee_id: otis4631
     github_id: ''
     companies:
@@ -2268,13 +2268,13 @@ users:
         end_date: ''
     user_name: littleFuBaby
     emails: [ ]
-  - gitee_id: liu_hui199828
+  - gitee_id: liu_hui0228
     github_id: ''
     companies:
       - company_name: Enmotech
         end_date: ''
-    user_name: liu_hui199828
-    emails: [ ]
+    user_name: 刘珲
+    emails: [liu_hui0228@163.com ]
   - gitee_id: liu_yang_ywxkhhh
     github_id: ''
     companies:
@@ -4024,3 +4024,220 @@ users:
         end_date: ''
     user_name: douzt
     emails: [ ]
+  - gitee_id: travelliu
+    github_id: 'travelliu'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: travelliu
+    emails: [bin.liu@enmotech.com]
+  - gitee_id: lee1002
+    github_id: 'lee1057'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: lihongda
+    emails: [hongda.li@enmotech.com]
+  - gitee_id: saxisuer
+    github_id: 'saxisuer'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 萨西摩尔
+    emails: [killenblood@gmail.com]
+  - gitee_id: ming-li01
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [365348726@qq.com]
+  - gitee_id: hongyedba
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 红叶DBA
+    emails: [hongyedba@qq.com]
+  - gitee_id: ashnah0
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: ashnah
+    emails: [ashnah@sina.com]
+  - gitee_id: movead
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: movead
+    emails: [lchch1990@sina.cn]
+  - gitee_id: vimiix
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [i@vimiix.com]
+  - gitee_id: xiu-qiang-wang-2022
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [xiuqiang.wang@enmotech.com]
+  - gitee_id: Zf_enmo
+    github_id: 'zfenmo20201'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: Zf_enmo
+    emails: [1417204057@qq.com]
+  - gitee_id: CarpenterNail
+    github_id: 'czNail'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [carpenter.nail@foxmail.com]
+  - gitee_id: luolaquan
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [laquan.luo@enmotech.com]
+  - gitee_id: palylive
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [476078011@qq.com]
+  - gitee_id: sungwu_admin
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: sungwu
+    emails: [sung.wu@qq.com]
+  - gitee_id: xiao_by
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: bucoo
+    emails: [xiao_by@126.com]
+  - gitee_id: fangxie
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [xf.ustc@gmail.com]
+  - gitee_id: tianbing8803
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: tbing
+    emails: [csjy_tsb@163.com]
+  - gitee_id: yabinji
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [yabin.ji@enmotech.com]
+  - gitee_id: amoswooo
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: amoswooo
+    emails: [amoswooo@163.com]
+  - gitee_id: tangxiaotx
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [1436092698@qq.com]
+  - gitee_id: kexulin
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: kexulin
+    emails: [kexu.lin@enmotech.com]
+  - gitee_id: wenkeyang_abab
+    github_id: 'alice-yang94'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [wenke.yang@enmotech.com]
+  - gitee_id: jinyismilodon
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: yi.jin
+    emails: [jinyi.smilodon@gmail.com]
+  - gitee_id: enmotechxyh
+    github_id: 'dickmorgan'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [chengjx0818@163.com]
+  - gitee_id: wangchunling14
+    github_id: 'wcl14'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: wangchunling
+    emails: [chunling.wang@enmotech.com]
+  - gitee_id: hou-zongtian
+    github_id: 'Librago'
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 侯宗田
+    emails: [zongtian.hou@enmotech.com]
+  - gitee_id: gowu56
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [gowu57@gmail.com]
+  - gitee_id: haolan_sun
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: 
+    emails: [haolan.sun@enmotech.com]
+  - gitee_id: YangHao666666
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: LyndonYang
+    emails: [18611856983@163.com]
+  - gitee_id: dongxu.wei
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: dongxu.wei
+    emails: [dongxu.wei@enmotech.com]
+  - gitee_id: jarekzhang
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: Jarek.Zhang
+    emails: [flahspy@hotmail.com]
