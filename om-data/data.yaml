@@ -4297,3 +4297,10 @@ users:
         end_date: ''
     user_name: wangzhe
     emails: [ ]
+  - gitee_id: tayly13
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: tayly13
+    emails: [ ]
