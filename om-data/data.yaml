@@ -1,4 +1,11 @@
 users:
+  - gitee_id: wolf-herd
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: wolf-herd
+    emails: [ ]
   - gitee_id: wanfang5
     github_id: ''
     companies:
