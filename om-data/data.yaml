@@ -4262,7 +4262,7 @@ users:
         end_date: ''
     user_name: hlsj_tw
     emails: [ ]
-- gitee_id: ganrongliang
+  - gitee_id: ganrongliang
     github_id: ''
     companies:
       - company_name: Vastdata
@@ -4290,7 +4290,7 @@ users:
         end_date: ''
     user_name: Xingxiong.Wu
     emails: [ ]
-- gitee_id: nan_1204
+  - gitee_id: nan_1204
     github_id: ''
     companies:
       - company_name: vastdata
