@@ -3710,7 +3710,7 @@ users:
         end_date: ''
     user_name: zdai96
     emails: [ ]
-  - gitee_id: xiaotao-huang
+  - gitee_id: vincenthuangxt
     github_id: ''
     companies:
       - company_name: Vastdata
@@ -4241,3 +4241,66 @@ users:
         end_date: ''
     user_name: Jarek.Zhang
     emails: [flahspy@hotmail.com]
+  - gitee_id: vastdata-xyzr
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: xiyanziran
+    emails:[ ]
+  - gitee_id: v-dengqi
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 邓琦
+    emails: [ ]
+  - gitee_id: hlsj_tw
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: hlsj_tw
+    emails: [ ]
+  - gitee_id: ganrongliang
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: ganrongliang
+    emails: [ ]
+  - gitee_id: wolf-herd
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: wolf-herd
+    emails: [ ]
+  - gitee_id: chamip
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: chamip
+    emails: [ ]
+  - gitee_id: tiantianxiangshang2020_admin
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Xingxiong.Wu
+    emails: [ ]
+  - gitee_id: nan_1204
+    github_id: ''
+    companies:
+      - company_name: vastdata
+        end_date: ''
+    user_name: wangzhe
+    emails: [ ]
+  - gitee_id: tayly13
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: tayly13
+    emails: [ ]
