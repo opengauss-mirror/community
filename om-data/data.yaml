@@ -4311,3 +4311,10 @@ users:
         end_date: ''
     user_name: tayly13
     emails: [ ]
+  - gitee_id: vastbase_wangl
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: wanglei
+    emails: [ ]
