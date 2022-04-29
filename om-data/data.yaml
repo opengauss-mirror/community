@@ -4261,7 +4261,7 @@ users:
       - company_name: Vastdata
         end_date: ''
     user_name: xiyanziran
-    emails:[ ]
+    emails: [ ]
   - gitee_id: v-dengqi
     github_id: ''
     companies:
