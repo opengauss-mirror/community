@@ -4300,7 +4300,7 @@ users:
   - gitee_id: nan_1204
     github_id: ''
     companies:
-      - company_name: vastdata
+      - company_name: Vastdata
         end_date: ''
     user_name: wangzhe
     emails: [ ]
