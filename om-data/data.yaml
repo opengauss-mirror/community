@@ -4325,3 +4325,10 @@ users:
         end_date: ''
     user_name: wanglei
     emails: [ ]
+  - gitee_id: nctjx
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 蒋雪
+    emails: [ ]   
