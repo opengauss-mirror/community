@@ -4269,6 +4269,13 @@ users:
         end_date: ''
     user_name: 邓琦
     emails: [ ]
+  - gitee_id: liangshan-prefecture
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 张世乐
+    emails: [ ]
   - gitee_id: hlsj_tw
     github_id: ''
     companies:
