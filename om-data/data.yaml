@@ -3906,12 +3906,12 @@ users:
         end_date: ''
     user_name: liuyongzhen
     emails: [ ]
-  - gitee_id: XiyeLan
+  - gitee_id: xiyeLan
     github_id: ''
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: xiyelan
+    user_name: Xiyelan
     emails: [ ]
   - gitee_id: ympc
     github_id: ''
