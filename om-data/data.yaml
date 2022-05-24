@@ -4584,3 +4584,10 @@ users:
         end_date: ''
     user_name: ora-600
     emails: [yinan.li@enmotech.com]
+  - gitee_id: clemenzaz
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: xinlei.zhang
+    emails: [xinlei.zhang@enmotech.com]
