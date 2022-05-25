@@ -41,6 +41,13 @@ users:
         end_date: ''
     user_name: zhang_xubo
     emails: [ ]
+  - gitee_id: lepl
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 李雯
+    emails: [ ]
   - gitee_id: jia_junfeng1
     github_id: ''
     companies:
