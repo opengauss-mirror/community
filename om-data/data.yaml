@@ -2163,6 +2163,13 @@ users:
         end_date: ''
     user_name: kcana
     emails: [ ]
+  - gitee_id: wanghao19920907
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: PiPiBa
+    emails: [ ] 
   - gitee_id: kidd__cn
     github_id: ''
     companies:
