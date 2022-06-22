@@ -50,6 +50,10 @@
 
 ## Fastcheck
 
+参考社区博客获取fastcheck/memcheck/hacheck的执行方法：
+
+https://opengauss.org/zh/blogs/blogs.html?post/xiteming/howtorunfastcheck
+
 ## Memcheck
 
 ## hacheck
@@ -60,13 +64,21 @@
 
 ### 编程规范
 
-### PclintPlus告警
+请对照社区安全编码规范进行排查：
+
+https://gitee.com/opengauss/security/blob/master/guide/SecureCoding.md
+
+https://gitee.com/opengauss/security/blob/master/guide/SecureCompile(C&C++).md
 
 ### 内存使用排查
 
 ### 覆盖率
 
 增量代码测试用例覆盖率80%+
+
+参考社区博客获取增量代码覆盖率的执行方法：
+
+https://opengauss.org/zh/blogs/blogs.html?post/totaj/%E5%A6%82%E4%BD%95%E8%B7%91%E5%A2%9E%E9%87%8F%E4%BB%A3%E7%A0%81%E8%A6%86%E7%9B%96%E7%8E%87/
 
 ### 鲲鹏平台乱序排查
 
@@ -76,8 +88,7 @@
 | **2**  | **是否涉及线程间共享数据？**         |          |
 | **3**  | **是否未对共享数据加锁保护？**        |          |
 | 4      | 线程间共享数据是否存在无锁同步模式？       |          |
-| 5      | 识别是否为典型使用模式？             |          |
-| 6      | 是否 **未** 在正确的位置插入合适的内存屏障 |          |
+| 5      | 是否 **未** 在正确的位置插入合适的内存屏障 |          |
 
 ## 代码检视意见
 
