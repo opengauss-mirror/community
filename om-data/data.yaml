@@ -4339,6 +4339,13 @@ users:
         end_date: ''
     user_name: wanglei
     emails: [ ]
+  - gitee_id: noon-moon
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 午月
+    emails: [ ]
   - gitee_id: nctjx
     github_id: ''
     companies:
