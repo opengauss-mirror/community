@@ -2807,6 +2807,13 @@ users:
         end_date: ''
     user_name: vastdata_admin
     emails: [ ]
+  - gitee_id: z-qw
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: z-qw
+    emails: [ ]
   - gitee_id: viashaw
     github_id: ''
     companies:
