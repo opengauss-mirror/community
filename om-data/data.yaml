@@ -48,6 +48,13 @@ users:
         end_date: ''
     user_name: jia_junfeng1
     emails: [ ]
+- gitee_id: faillll
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: FAillll
+    emails: [ ]
   - gitee_id: scarbor_fair
     github_id: ''
     companies:
