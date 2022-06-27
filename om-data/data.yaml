@@ -1897,6 +1897,13 @@ users:
         end_date: ''
     user_name: guoxinying123
     emails: [ ]
+  - gitee_id: rentc
+    github_id: ''
+    companies:
+      - company_name: 'Vastdata'
+        end_date: ''
+    user_name: dayday
+    emails: [ ]
   - gitee_id: gwp2464
     github_id: ''
     companies:
