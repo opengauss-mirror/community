@@ -3591,6 +3591,13 @@ users:
         end_date: ''
     user_name: 熊小熊
     emails: [ ]
+  - gitee_id: jinyyu
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 黎俊云
+    emails: [ ]
   - gitee_id: willloong
     github_id: ''
     companies:
