@@ -1078,6 +1078,13 @@ users:
         end_date: ''
     user_name: tomas__junny
     emails: [ ]
+  - gitee_id: anna2204
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Anna2204
+    emails: [ ]
   - gitee_id: tonyhehe
     github_id: ''
     companies:
