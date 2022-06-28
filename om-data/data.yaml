@@ -973,6 +973,13 @@ users:
         end_date: ''
     user_name: matrix0xcc
     emails: [ ]
+   - gitee_id: doctorsongyh
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 宋宇航
+    emails: [ ]
   - gitee_id: nanmu2018
     github_id: ''
     companies:
