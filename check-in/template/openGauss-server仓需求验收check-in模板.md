@@ -229,7 +229,7 @@
 
 参考社区博客获取fastcheck/memcheck/hacheck的执行方法：
 
-https://opengauss.org/zh/blogs/blogs.html?post/xiteming/howtorunfastcheck
+https://opengauss.org/zh/blogs/blogs.html?post/xiteming/howtorunfastcheck/
 
 ## Memcheck
 
