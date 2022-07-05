@@ -55,6 +55,13 @@ users:
         end_date: ''
     user_name: scarbor_fair
     emails: [ ]
+  - gitee_id: cool-judy
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 清风
+    emails: [ ]
   - gitee_id: lvmiao1229
     github_id: ''
     companies:
