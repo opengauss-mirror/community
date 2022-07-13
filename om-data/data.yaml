@@ -1351,6 +1351,13 @@ users:
         end_date: ''
     user_name: MrVulcan
     emails: [ ]
+    - gitee_id: L_ytterbium
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: pulsar
+    emails: [ ]
   - gitee_id: OAGroup
     github_id: ''
     companies:
