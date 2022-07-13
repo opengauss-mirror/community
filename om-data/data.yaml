@@ -3913,6 +3913,13 @@ users:
         end_date: ''
     user_name: wangym11
     emails: [ ]
+  - gitee_id: beTheOneIWannaBe 
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Max
+    emails: [ ]
   - gitee_id: wenbling
     github_id: ''
     companies:
