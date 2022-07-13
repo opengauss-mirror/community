@@ -202,6 +202,13 @@ users:
         end_date: ''
     user_name: 曾祥鑫
     emails: [ ]
+  - gitee_id: MobChaos
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: MobChaos
+    emails: [ ]
   - gitee_id: willemjiang
     github_id: ''
     companies:
