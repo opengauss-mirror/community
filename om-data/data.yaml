@@ -3584,6 +3584,13 @@ users:
         end_date: ''
     user_name: 字节
     emails: [ ]
+    - gitee_id: qbiu
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 巩媛媛
+    emails: [ ]
   - gitee_id: zwgiles
     github_id: ''
     companies:
