@@ -132,6 +132,13 @@ users:
         end_date: ''
     user_name: cyw-0-ng
     emails: [ ]
+  - gitee_id: sr-cap
+    github_id: ''
+    companies:
+      - company_name:Vastdata
+      end_date: ''
+    user_name: sr小帽
+    emails: [ ]
   - gitee_id: gaojia629
     github_id: ''
     companies:
