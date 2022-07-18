@@ -139,6 +139,13 @@ users:
         end_date: ''
     user_name: gaojia629
     emails: [ ]
+  - gitee_id: cbd123cbd
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: chenbingda
+    emails: [ ]
   - gitee_id: huiu924
     github_id: ''
     companies:
