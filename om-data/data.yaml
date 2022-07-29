@@ -3556,6 +3556,13 @@ users:
         end_date: ''
     user_name: 刘邦艺
     emails: [ ]
+  - gitee_id: linshuen
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: petrichor
+    emails: [ ]
   - gitee_id: cui-zhenyu
     github_id: ''
     companies:
