@@ -889,6 +889,13 @@ users:
         end_date: ''
     user_name: jcc123
     emails: [ ]
+  - gitee_id: anhezhizhi
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: hvaxw
+    emails: [ ]
   - gitee_id: jeffee
     github_id: ''
     companies:
