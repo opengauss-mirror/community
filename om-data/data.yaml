@@ -483,6 +483,13 @@ users:
     user_name: cchen676
     emails:
       - arcoalien@qq.com
+  - gitee_id: gavinhon
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Akanezora
+    emails: [ ]
   - gitee_id: wangpy_1092
     github_id: ''
     companies:
