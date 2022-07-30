@@ -6,6 +6,13 @@ users:
         end_date: ''
     user_name: feiyang0203
     emails: [ ]
+  - gitee_id: xeifenjugit
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: xfj0806
+    emails: [ ]
   - gitee_id: wolf-herd
     github_id: ''
     companies:
