@@ -1687,6 +1687,13 @@ users:
         end_date: ''
     user_name: danqu722
     emails: [ ]
+  - gitee_id: chic27
+    github_id: ''
+    companies:
+      - company_name: 'Vastdata'
+        end_date: ''
+    user_name: chic
+    emails: [ ]
   - gitee_id: database_structure
     github_id: ''
     companies:
