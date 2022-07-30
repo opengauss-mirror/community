@@ -910,6 +910,13 @@ users:
         end_date: ''
     user_name: kamusis
     emails: [ ]
+  - gitee_id: darkathena
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: DarkAthena
+    emails: [ ]
   - gitee_id: karna
     github_id: ''
     companies:
