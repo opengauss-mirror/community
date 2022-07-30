@@ -3605,6 +3605,13 @@ users:
         end_date: ''
     user_name: 崔振宇
     emails: [ ]
+  - gitee_id: lokigery
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: linlin
+    emails: [ ]
   - gitee_id: FantasyHuang
     github_id: ''
     companies:
