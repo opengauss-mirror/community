@@ -3591,6 +3591,13 @@ users:
         end_date: ''
     user_name: playrest
     emails: [ ]
+  - gitee_id: pu-jingrui
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 蒲境瑞
+    emails: [ ]
   - gitee_id: 282656323
     github_id: ''
     companies:
