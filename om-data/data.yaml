@@ -4556,3 +4556,10 @@ users:
         end_date: ''
     user_name: Sun
     emails: [ ]
+  - gitee_id: JusticeArbiter
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name:
+    emails: [zhanbiao.chen@enmotech.com]
