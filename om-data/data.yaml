@@ -2380,6 +2380,13 @@ users:
         end_date: ''
     user_name: liheng188
     emails: [ ]
+  - gitee_id: fengxue01
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: zhenghao
+    emails: [ ]
   - gitee_id: lihongda12
     github_id: ''
     companies:
