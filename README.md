@@ -11,16 +11,23 @@ Community仓库包含了关于openGauss社区的所有信息，包括社区治�
 
 openGauss社区官方支持以下社区组织：
 
+* [理事会（Board）](https://gitee.com/opengauss/board)
+
+* [用户委员会（User Committee，简称UC）](https://gitee.com/opengauss/uc)
+
+* [品牌委员会（Branding Committee，简称BC）](https://gitee.com/opengauss/bc)
+
 * [技术委员会（Technical Committee，简称TC）](https://gitee.com/opengauss/tc/blob/master/README.md)
 
-* [专项兴趣小组（Special Interest Groups，简称SIG）](https://gitee.com/opengauss/tc/blob/master/sigs/README.md)
+* [专项兴趣小组（Special Interest Groups，简称SIGs）](https://gitee.com/opengauss/tc/blob/master/sigs/README.md)
+
 
 请阅读[社区治理文档](/governance.md)获取更多信息。
 
 
 ## 社区角色
 
-我们鼓励所有贡献者参与openGauss社区贡献，我们的目标是发展一个由贡献者组成的活跃、健康的社区。关于TC成员、Maintainer、Committer等社区角色，请参考我们的[社区角色](/community-membership.md)介绍。
+我们鼓励所有贡献者参与openGauss社区贡献，我们的目标是发展一个由贡献者组成的活跃、健康的社区。关于理事会、用户委员会、品牌委员会、技术委员会、Maintainer、Committer等社区角色，请参考我们的[社区角色](/community-membership.md)介绍。
 
 ## 如何在本代码仓贡献
 
