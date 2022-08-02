@@ -4577,3 +4577,10 @@ users:
         end_date: ''
     user_name:
     emails: [zhanbiao.chen@enmotech.com]
+  - gitee_id: ora-600
+    github_id: ''
+    companies:
+      - company_name: Enmotech
+        end_date: ''
+    user_name: ora-600
+    emails: [yinan.li@enmotech.com]
