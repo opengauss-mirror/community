@@ -9,6 +9,12 @@ The Community repository is to store all the information about openGauss Communi
 
 openGauss has the following types of community organizations that are officially supported:
 
+* [Board](https://gitee.com/opengauss/board)
+
+* [User Committee (UC)](https://gitee.com/opengauss/uc)
+
+* [Branding Committee (BC)](https://gitee.com/opengauss/bc)
+
 * [Technical Committee (TC)](https://gitee.com/opengauss/tc/blob/master/README.en.md)
 
 * [Special Interest Groups (SIGs)](https://gitee.com/opengauss/tc/blob/master/sigs/README.en.md)

@@ -1,5 +1,17 @@
 # Community membership
 
+### Board
+
+The openGauss open source community Board is the leading organization of the community.
+
+### UC
+
+The openGauss open source community User Committee (UC) is the end-user communication organization of the community.
+
+### BC
+
+The openGauss open source community Branding Committee (BC) is the brand advocacy agency of the community.
+
 ### TC
 
 In order to ensure the operation of the technical committee, the members who do not attend the TC meeting for two consecutive times may be forcibly removed after the decision of the TC regular meeting; If a TC member applies for leaving office for personal reasons, all TC members shall be notified.

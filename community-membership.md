@@ -1,5 +1,17 @@
 # Community membership
 
+### Board
+
+openGauss开源社区理事会（Board）是openGauss社区的领导机构。
+
+### UC
+
+openGauss开源社区用户委员会（User Committee，简称UC）是openGauss社区的最终用户沟通机构。
+
+### BC
+
+openGauss开源社区品牌委员会（Branding Committee，简称BC）是openGauss社区的品牌宣传机构。
+
 ### TC
   
 为保障技术委员会的运作，经过TC例会决策，可强制离任连续2次不参加TC会议的委员；TC成员因个人原因申请离任的，应通知全体TC成员。
