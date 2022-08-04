@@ -118,6 +118,13 @@ users:
         end_date: ''
     user_name: lwb321
     emails: [ ]
+    gitee_id: wllovever
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: wllove
+    emails: [ ]
   - gitee_id: zzzzzdb
     github_id: ''
     companies:
