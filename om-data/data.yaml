@@ -4591,3 +4591,10 @@ users:
         end_date: ''
     user_name: xinlei.zhang
     emails: [xinlei.zhang@enmotech.com]
+  - gitee_id: idaung
+    github_id: ''
+    companies:
+      - company_name: 超聚变数字技术有限公司
+        end_date: ''
+    user_name: zhoubin
+    emails: [zhoubin42@xfusion.com]
