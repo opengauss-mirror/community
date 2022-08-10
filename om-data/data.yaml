@@ -3687,6 +3687,13 @@ users:
     companies:
       - company_name: Vastdata
         end_date: ''
+    user_name: 一闪亮晶晶
+    emails: [ ]
+  - gitee_id: a-shiny-crystal
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
     user_name: 刘邦艺
     emails: [ ]
   - gitee_id: linshuen
