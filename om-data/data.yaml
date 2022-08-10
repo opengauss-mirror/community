@@ -496,6 +496,19 @@ users:
         end_date: ''
     user_name: li_jianqiu
     emails: [ ]
+  - gitee_id: a-shiny-crystal
+    github_id: ''
+    companies:
+      - company_name: vastdata
+        end_date: ''
+    user_name: 一闪亮晶晶
+    emails: [ ]
+    github_id: ''
+    companies:
+      - company_name: Huawei
+        end_date: ''
+    user_name: li_jianqiu
+    emails: [ ]
   - gitee_id: lys6676
     github_id: ''
     companies:
