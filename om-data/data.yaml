@@ -4486,6 +4486,13 @@ users:
         end_date: ''
     user_name: xiyanziran
     emails: [ ]
+  - gitee_id: hhhifm
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: hhhifm
+    emails: [ ]
   - gitee_id: v-dengqi
     github_id: ''
     companies:
