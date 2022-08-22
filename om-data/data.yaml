@@ -1708,6 +1708,13 @@ users:
         end_date: ''
     user_name: chinapenglin
     emails: [ ]
+  - gitee_id: sjx00hl
+    github_id: ''
+    companies:
+      - company_name: 'Vastdata'
+        end_date: ''
+    user_name: sjx00hl
+    emails: [ ]
   - gitee_id: chla
     github_id: ''
     companies:
