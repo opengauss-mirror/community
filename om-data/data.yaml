@@ -2555,6 +2555,13 @@ users:
         end_date: ''
     user_name: luo0303
     emails: [ ]
+  - gitee_id: suchastory
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 王昊懿
+    emails: [ ]
   - gitee_id: luohongbins
     github_id: ''
     companies:
