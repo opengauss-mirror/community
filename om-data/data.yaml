@@ -1190,6 +1190,13 @@ users:
         end_date: ''
     user_name: tiantianxiangshang2020
     emails: [ ]
+  - gitee_id: qianxue21
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: qx21
+    emails: [ ]
   - gitee_id: tomas__junny
     github_id: ''
     companies:
