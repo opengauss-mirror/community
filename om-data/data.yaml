@@ -3833,7 +3833,7 @@ users:
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: 黎俊云
+    user_name: ljy
     emails: [ ]
   - gitee_id: willloong
     github_id: ''
