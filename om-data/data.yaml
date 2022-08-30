@@ -214,7 +214,7 @@ users:
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: chenbingda
+    user_name: chenbd
     emails: [ ]
   - gitee_id: huiu924
     github_id: ''
