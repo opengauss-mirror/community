@@ -291,7 +291,7 @@ users:
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: 曾祥鑫
+    user_name: kenxx
     emails: [ ]
   - gitee_id: MobChaos
     github_id: ''
