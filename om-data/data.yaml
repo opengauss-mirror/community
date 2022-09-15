@@ -118,6 +118,13 @@ users:
         end_date: ''
     user_name: 清风
     emails: [ ]
+- gitee_id: bacone
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: BaconE
+    emails: [ ]
   - gitee_id: lvmiao1229
     github_id: ''
     companies:
