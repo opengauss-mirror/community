@@ -1518,6 +1518,13 @@ users:
         end_date: ''
     user_name: pulsar
     emails: [ ]
+  - gitee_id: carltdz
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Carltdz
+    emails: [ ]
   - gitee_id: OAGroup
     github_id: ''
     companies:
