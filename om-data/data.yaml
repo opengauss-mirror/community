@@ -1868,6 +1868,13 @@ users:
         end_date: ''
     user_name: chic
     emails: [ ]
+    - gitee_id: ultra-low-temperature
+    github_id: ''
+    companies:
+      - company_name: 'Vastdata'
+        end_date: ''
+    user_name: 超低温
+    emails: [ ]
   - gitee_id: database_structure
     github_id: ''
     companies:
