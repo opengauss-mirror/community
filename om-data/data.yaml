@@ -13,6 +13,13 @@ users:
         end_date: ''
     user_name: wangrururu
     emails: [ ]
+  - gitee_id: not-enter
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 不入
+    emails: [ ]
   - gitee_id: aeyaya
     github_id: ''
     companies:
