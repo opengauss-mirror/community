@@ -4681,3 +4681,10 @@ users:
         end_date: ''
     user_name: zhoubin
     emails: [zhoubin42@xfusion.com]
+  - gitee_id: xiaoqiantong
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 小钱筒
+    emails: [ ]
