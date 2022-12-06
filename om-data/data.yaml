@@ -55,6 +55,13 @@ users:
         end_date: ''
     user_name: wanfang5
     emails: [ ]
+  - gitee_id: SunriseTao
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: SunriseTao
+    emails: [ ]    
   - gitee_id: sqyyeah
     github_id: ''
     companies:
