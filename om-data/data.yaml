@@ -1,4 +1,11 @@
 users:
+  - gitee_id: yujie595
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: yujie
+    emails: [ ]
   - gitee_id: feiyang0203
     github_id: ''
     companies:
