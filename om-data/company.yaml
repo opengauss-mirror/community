@@ -61,3 +61,8 @@ companies:
     company_name: Hunan Normal University
     aliases:
       - Hunan Normal University
+  - domains:
+      - chinamobile.com
+    company_name: ChinaMobile
+    aliases:
+      - ChinaMobile
