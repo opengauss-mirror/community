@@ -47,16 +47,19 @@
 | fastcheck |     |
 | memcheck  |     |
 | hacheck   |     |
+| subscription/check   |     |
 
 ## Fastcheck
 
-参考社区博客获取fastcheck/memcheck/hacheck的执行方法：
+参考社区博客获取fastcheck/memcheck/hacheck/subcheck的执行方法：
 
-https://opengauss.org/zh/blogs/blogs.html?post/xiteming/howtorunfastcheck
+https://opengauss.org/zh/blogs/xiteming/HowtorunFastcheck.html
 
 ## Memcheck
 
 ## hacheck
+
+## subscription/check
 
 # 代码检视结论
 
@@ -78,7 +81,7 @@ https://gitee.com/opengauss/security/blob/master/guide/SecureCompile(C&C++).md
 
 参考社区博客获取增量代码覆盖率的执行方法：
 
-https://opengauss.org/zh/blogs/blogs.html?post/totaj/%E5%A6%82%E4%BD%95%E8%B7%91%E5%A2%9E%E9%87%8F%E4%BB%A3%E7%A0%81%E8%A6%86%E7%9B%96%E7%8E%87/
+https://opengauss.org/zh/blogs/totaj/%E5%A6%82%E4%BD%95%E8%B7%91%E5%A2%9E%E9%87%8F%E4%BB%A3%E7%A0%81%E8%A6%86%E7%9B%96%E7%8E%87.html
 
 ### 鲲鹏平台乱序排查
 
