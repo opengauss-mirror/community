@@ -2134,6 +2134,13 @@ users:
         end_date: ''
     user_name: guoxinying123
     emails: [ ]
+  - gitee_id: sheepmiemie_21
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: jasmine_21
+    emails: [ ]
   - gitee_id: rentc
     github_id: ''
     companies:
