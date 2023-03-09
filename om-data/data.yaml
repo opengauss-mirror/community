@@ -2820,6 +2820,13 @@ users:
         end_date: ''
     user_name: popastin
     emails: [ ]
+  - gitee_id: sheepmiemie_21
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: jasmine_21
+    emails: [ ]
   - gitee_id: pure_qsh
     github_id: ''
     companies:
