@@ -41,6 +41,13 @@ users:
         end_date: ''
     user_name: Aeyaya
     emails: [ ]
+  - gitee_id: JerryZhangjy
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: JerryZhang
+    emails: [ ]
   - gitee_id: xeifenjugit
     github_id: ''
     companies:
