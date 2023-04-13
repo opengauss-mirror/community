@@ -220,6 +220,21 @@ openGauss社区的所有项目都由Bot维护。
                 只有仓库成员才能在Pull Request上触发这种命令。
             </td>
         </tr>
+        <tr>
+            <td>
+                /retest-static
+            </td>
+            <td style="white-space:nowrap;">
+                /retest-static
+            </td>
+            <td>
+                重新执行codecheck任务
+            </td>
+            <td>
+                任何人都能在一个Pull Request上触发这种命令。
+            </td>
+        </tr>
     </tbody>
 </table>
+
 

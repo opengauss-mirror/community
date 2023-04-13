@@ -224,6 +224,21 @@ The Commands incluing as follows:
                 Only collaborators of repository can use this command on a pull request.
             </td>
         </tr>
+        <tr>
+            <td>
+                /retest-static
+            </td>
+            <td style="white-space:nowrap;">
+                /retest-static
+            </td>
+            <td>
+                Rerun codecheck jobs that have failed.
+            </td>
+            <td>
+                Anyone can use this command on a pull request.
+            </td>
+        </tr>
     </tbody>
 </table>
+
 
