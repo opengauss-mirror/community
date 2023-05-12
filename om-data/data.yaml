@@ -4680,6 +4680,13 @@ users:
       - company_name: Vastdata
         end_date: ''
     user_name: 蒋雪
+    emails: [ ]
+  - gitee_id: Ironeie
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Ironeie
     emails: [ ]   
   - gitee_id: min-sun
     github_id: ''
