@@ -279,6 +279,13 @@ users:
         end_date: ''
     user_name: zhouxiongjia
     emails: [ ]
+  - gitee_id: lestertt
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: lestertt
+    emails: [ ]
   - gitee_id: cca5507
     github_id: ''
     companies:
