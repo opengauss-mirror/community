@@ -3912,12 +3912,12 @@ users:
         end_date: ''
     user_name: LBBBB
     emails: [ ]
-  - gitee_id: ouruiting
+  - gitee_id: ryanou666
     github_id: ''
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: ouruiting
+    user_name: Ryan
     emails: [ ]
   - gitee_id: dracoding
     github_id: ''
