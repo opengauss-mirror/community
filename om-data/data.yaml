@@ -4695,6 +4695,13 @@ users:
         end_date: ''
     user_name: 蒋雪
     emails: [ ]   
+  - gitee_id: zhang-wh1
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: npczwh1
+    emails: [ ]
   - gitee_id: min-sun
     github_id: ''
     companies:
