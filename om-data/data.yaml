@@ -3527,6 +3527,13 @@ users:
         end_date: ''
     user_name: zhangyulong34
     emails: [ ]
+   - gitee_id: kunlun_spurs
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 费曼的彩虹
+    emails: [ ]  
   - gitee_id: zhao_fangyang
     github_id: ''
     companies:
