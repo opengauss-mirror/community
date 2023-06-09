@@ -4768,56 +4768,63 @@ users:
   - gitee_id: maxz
     github_id: ''
     companies:
-      - company_name: ChinaMobile
+      - company_name: 中移动信息技术有限公司
         end_date: ''
     user_name: Jenny
     emails: [ ]
   - gitee_id: mentoswang
     github_id: ''
     companies:
-      - company_name: ChinaMobile
+      - company_name: 中移动信息技术有限公司
         end_date: ''
     user_name: mentoswang
     emails: [ ]
   - gitee_id: azurenake
     github_id: ''
     companies:
-      - company_name: ChinaMobile
+      - company_name: 中移动信息技术有限公司
         end_date: ''
     user_name: 崔凯峰
     emails: [ ]
   - gitee_id: zhoujingbnu
     github_id: ''
     companies:
-      - company_name: ChinaMobile
+      - company_name: 中移动信息技术有限公司
         end_date: ''
     user_name: zhoujingbnu
     emails: [ ]
   - gitee_id: lilongfei15
     github_id: ''
     companies:
-      - company_name: ChinaMobile
+      - company_name: 中移动信息技术有限公司
         end_date: ''
     user_name: lilongfei
     emails: [ ]
   - gitee_id: sun_ming_yangyyy
     github_id: ''
     companies:
-      - company_name: ChinaMobile
+      - company_name: 中移动信息技术有限公司
         end_date: ''
     user_name: 孙明杨
     emails: [ ]
   - gitee_id: xucheng_peking
     github_id: ''
     companies:
-      - company_name: ChinaMobile
+      - company_name: 中移动信息技术有限公司
         end_date: ''
     user_name: xu cheng
     emails: [ ]
   - gitee_id: wang-xinyu-7
     github_id: ''
     companies:
-      - company_name: ChinaMobile
+      - company_name: 中移动信息技术有限公司
         end_date: ''
     user_name: Wang Xinyu 7
+    emails: [ ]
+  - gitee_id: haru_hi
+    github_id: ''
+    companies:
+      - company_name: 中移动信息技术有限公司
+        end_date: ''
+    user_name: Capulus
     emails: [ ]
