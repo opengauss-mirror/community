@@ -61,6 +61,29 @@ https://opengauss.org/zh/blogs/xiteming/HowtorunFastcheck.html
 
 ## subscription/check
 
+# 升级验证
+
+升级、回滚脚本编写请参考开发指导：
+https://www.opengauss.org/zh/blogs/ganyang/SQL%E5%BC%95%E6%93%8E%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E6%8C%87%E5%AF%BC.html
+
+升级、回滚操作请参考文档步骤：
+https://docs.opengauss.org/zh/docs/latest/docs/DatabaseOMGuide/%E5%8D%87%E7%BA%A7%E6%93%8D%E4%BD%9C.html
+
+升级包即 ```build.sh -pkg``` 生成的打包文件以及对应OM安装包，参考企业版安装包目录结构
+验证前请先创建B兼容数据库，否则不会执行插件升级步骤
+
+| 验证集       | 结论  |
+| --------- | --- |
+| openGauss LTS版本升级到最新master |    |
+| 社区最新master回滚到旧版本  |     |
+| openGauss LTS版本再升级到最新master   |     |
+| openGauss LTS版本升级提交到最新master   |     |
+
+## openGauss LTS版本升级到最新master
+## openGauss最新master回滚到旧版本
+## openGauss LTS版本再升级到最新master
+## openGauss LTS版本升级提交到最新master
+
 # 代码检视结论
 
 ## 编码规范检查
