@@ -20,7 +20,14 @@ users:
         end_date: ''
     user_name: wangrururu
     emails: [ ]
-      - gitee_id: yiyi2
+  - gitee_id: finch1024
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: fanxiaoxian
+    emails: [ ]
+  - gitee_id: yiyi2
     github_id: ''
     companies:
       - company_name: Vastdata
