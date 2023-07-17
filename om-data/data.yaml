@@ -1693,6 +1693,13 @@ users:
         end_date: ''
     user_name: april01xxx
     emails: [ ]
+  - gitee_id: nicocloud
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: nico
+    emails: [ ]
   - gitee_id: aranadall
     github_id: ''
     companies:
