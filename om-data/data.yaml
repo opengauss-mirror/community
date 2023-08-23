@@ -321,6 +321,13 @@ users:
         end_date: ''
     user_name: CCA
     emails: [ ]
+  - gitee_id: wave-what
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: wave_what
+    emails: [ ]    
   - gitee_id: Lamaric
     github_id: ''
     companies:
