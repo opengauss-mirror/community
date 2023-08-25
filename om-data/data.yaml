@@ -181,6 +181,13 @@ users:
         end_date: ''
     user_name: lvmiao1229
     emails: [ ]
+  - gitee_id: HaoGit2022
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: Hao2022
+    emails: [ ]
   - gitee_id: lwb321
     github_id: ''
     companies:
