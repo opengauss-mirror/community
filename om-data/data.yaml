@@ -4751,6 +4751,13 @@ users:
         end_date: ''
     user_name: 蒋雪
     emails: [ ]   
+  - gitee_id: yuuspacex
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: yuu
+    emails: [ ]
   - gitee_id: zhang-wh1
     github_id: ''
     companies:
