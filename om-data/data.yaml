@@ -167,6 +167,13 @@ users:
         end_date: ''
     user_name: scarbor_fair
     emails: [ ]
+  - gitee_id: jianxinyl
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: 剑心
+    emails: [ ]
   - gitee_id: cool-judy
     github_id: ''
     companies:
