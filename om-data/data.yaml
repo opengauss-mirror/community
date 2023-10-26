@@ -48,6 +48,13 @@ users:
         end_date: ''
     user_name: 不入
     emails: [ ]
+  - gitee_id: little-sea-otter
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: little-sea-otter
+    emails: [ ]    
  - gitee_id: vd-observability
     github_id: ''
     companies:
