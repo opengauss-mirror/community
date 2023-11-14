@@ -4919,3 +4919,10 @@ users:
         end_date: ''
     user_name: Capulus
     emails: [ ]
+  - gitee_id: cuikaifeng
+    github_id: ''
+    companies:
+      - company_name: 中移动信息技术有限公司
+        end_date: ''
+    user_name: cuikaifeng
+    emails: [ ]
