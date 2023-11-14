@@ -2512,12 +2512,12 @@ users:
         end_date: ''
     user_name: kcana
     emails: [ ]
-  - gitee_id: wanghao19920907
+  - gitee_id: pp8pp8
     github_id: ''
     companies:
       - company_name: Vastdata
         end_date: ''
-    user_name: wanghao19920907
+    user_name: pp8pp8
     emails: [ ] 
   - gitee_id: kidd__cn
     github_id: ''
