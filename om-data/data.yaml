@@ -4926,14 +4926,14 @@ users:
         end_date: ''
     user_name: cuikaifeng
     emails: [ ]
-    - gitee_id: RustSau
+  - gitee_id: RustSau
     github_id: ''
     companies:
       - company_name: 四川大学网络空间安全学院
         end_date: ''
     user_name: LiuYuheng
     emails: [2022326245015@stu.scu.edu.cn]
-    - gitee_id: zhengliushui_0
+  - gitee_id: zhengliushui_0
     github_id: ''
     companies:
       - company_name: 中软国际科技服务有限公司
