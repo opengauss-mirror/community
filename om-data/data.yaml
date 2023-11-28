@@ -419,6 +419,13 @@ users:
         end_date: ''
     user_name:cloudsbreak
     emails: [ ]
+    - gitee_id: fengqishi_2023
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name:fengqishi_2023
+    emails: [ ]
   - gitee_id: willemjiang
     github_id: ''
     companies:
