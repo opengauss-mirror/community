@@ -34,6 +34,13 @@ users:
         end_date: ''
     user_name: cuixy
     emails: [ ]
+  - gitee_id: guoshiqiangaxv
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: guoshiqiang
+    emails: [ ]
   - gitee_id: yiyi2
     github_id: ''
     companies:
