@@ -62,6 +62,13 @@ users:
         end_date: ''
     user_name: vd_observability
     emails: [ ]
+ - gitee_id: accept_all
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: accept_all
+    emails: [ ]
   - gitee_id: aeyaya
     github_id: ''
     companies:
