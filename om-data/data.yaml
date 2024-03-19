@@ -41,6 +41,13 @@ users:
         end_date: ''
     user_name: yiyi2
     emails: [ ]
+  - gitee_id: sissor
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: sissor
+    emails: [ ]
   - gitee_id: not-enter
     github_id: ''
     companies:
