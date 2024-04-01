@@ -2617,6 +2617,13 @@ users:
         end_date: ''
     user_name: lihongda12
     emails: [ ]
+  - gitee_id: qingtian759
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: qingtian759
+    emails: [ ]
   - gitee_id: linianA
     github_id: ''
     companies:
