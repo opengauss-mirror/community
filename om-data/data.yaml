@@ -439,6 +439,12 @@ users:
       - company_name: Vastdata
         end_date: ''
     user_name: MobChaos
+  - gitee_id: cloudsbreak
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: cloudsbreak
     emails: [ ]
   - gitee_id: alexclanc
     github_id: ''
