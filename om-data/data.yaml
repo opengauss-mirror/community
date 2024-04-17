@@ -160,6 +160,13 @@ users:
         end_date: ''
     user_name: jiangquan-git
     emails: [ ]
+    - gitee_id: heisnebergpeng
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: heisnebergpeng
+    emails: [ ]
   - gitee_id: zhang_xubo
     github_id: ''
     companies:
