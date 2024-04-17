@@ -1476,6 +1476,13 @@ users:
         end_date: ''
     user_name: wenbling
     emails: [ ]
+  - gitee_id: kaos404
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: kaos404
+    emails: [ ]    
   - gitee_id: wjmcat
     github_id: ''
     companies:
