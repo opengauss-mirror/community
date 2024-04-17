@@ -4408,6 +4408,13 @@ users:
         end_date: ''
     user_name: qin86
     emails: [ ]
+  - gitee_id: TinyBag
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: TinyBag
+    emails: [ ]
   - gitee_id: nnuanyang
     github_id: ''
     companies:
