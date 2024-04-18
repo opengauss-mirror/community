@@ -5044,3 +5044,10 @@ users:
         end_date: ''
     user_name: james
     emails: [lubin076@chinasoftinc.com]
+  - gitee_id: yc-jianda
+    github_id: ''
+    companies:
+      - company_name: 中国邮政储蓄银行股份有限公司
+        end_date: ''
+    user_name: psbc-WangJianda
+    emails: [rjyf_wjd@163.com]
