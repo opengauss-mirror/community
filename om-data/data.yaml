@@ -75,7 +75,14 @@ users:
       - company_name: Vastdata
         end_date: ''
     user_name: little-sea-otter
-    emails: [ ]    
+    emails: [ ]
+- gitee_id: zhao-zg
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: zhao
+    emails: [ ]
  - gitee_id: vd-observability
     github_id: ''
     companies:
