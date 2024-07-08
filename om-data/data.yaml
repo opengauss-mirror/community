@@ -27,6 +27,13 @@ users:
         end_date: ''
     user_name: wangrururu
     emails: [ ]
+  - gitee_id: l2r
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: DNA
+    emails: [ ]
   - gitee_id: finch1024
     github_id: ''
     companies:
@@ -96,7 +103,7 @@ users:
       - company_name: Vastdata
         end_date: ''
     user_name: Aeyaya
-    emails: [ ]
+    emails: [ ] 
   - gitee_id: JerryZhangjy
     github_id: ''
     companies:
