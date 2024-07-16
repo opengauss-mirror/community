@@ -1,4 +1,11 @@
 users:
+  - gitee_id: xinhq_forog
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: xhq_forog
+    emails: [ ]
   - gitee_id: xunpeng1
     github_id: ''
     companies:
