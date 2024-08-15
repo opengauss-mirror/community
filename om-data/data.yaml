@@ -1846,6 +1846,13 @@ users:
         end_date: ''
     user_name: nico
     emails: [ ]
+    gitee_id: cting66
+    github_id: ''
+    companies:
+      - company_name: cting66
+        end_date: ''
+    user_name: nico
+    emails: [ ]
   - gitee_id: aranadall
     github_id: ''
     companies:
