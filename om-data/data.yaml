@@ -475,6 +475,13 @@ users:
         end_date: ''
     user_name: vastbase_yzhang
     emails: [ ]
+  - gitee_id: longjiaolu
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: lu
+    emails: [ ]
   - gitee_id: zeng-xiangxin
     github_id: ''
     companies:
