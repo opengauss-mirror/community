@@ -69,6 +69,13 @@ users:
         end_date: ''
     user_name: guoshiqiang
     emails: [ ]
+    - gitee_id: alice10000
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: alice10000
+    emails: [ ]
   - gitee_id: yiyi2
     github_id: ''
     companies:
