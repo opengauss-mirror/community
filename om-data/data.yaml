@@ -111,6 +111,12 @@ users:
         end_date: ''
     user_name: zhao
     emails: [ ]
+ - gitee_id: hellocz123
+    github_id: ''
+    companies:
+      - company_name: Vastdata
+        end_date: ''
+    user_name: XXXCA
  - gitee_id: vd-observability
     github_id: ''
     companies:
