@@ -59,8 +59,8 @@
 | 归一化 | 描述社区是否已有此软件或类似软件，业界类似软件有哪些，为什么要新引入该软件或该版本 | 本社区还未引入此软件，业界相似软件有B、C，只有本软件许可证友好，且该软件生态较好，X、Y等公司也在使用 |
 | License兼容性 | 协议为什么协议，是否兼容现有仓库 | MIT协议，可兼容当前仓库 |
 | 漏洞检查 | 是否通过社区协助完成漏洞检查 | 通过 |
-| lincense/Copyright检查 | 是否完成合规风险检查 | 通过 |
+| License/Copyright检查 | 是否完成合规风险检查 | 通过 |
 | 安全编译检查 | 是否通过社区协助完成安全编译检查 | 通过 |
 | 三方包完整验证| sha256验证完整性 | 通过 |
-| 是否在yaml文件力补充新引入的三方组件信息 | 于oipenGauss-third-party仓的Third_Party_Open_Source_Software_List.yaml中补充相关信息 | 通过 |
+| 是否在yaml文件力补充新引入的三方组件信息 | 于openGauss-third-party仓的Third_Party_Open_Source_Software_List.yaml中补充相关信息 | 通过 |
 | 责任人 | 描述该软件引入到本社区后的SIG名称及维护责任人的Gitee用名及邮箱 | SIG XXX，XXX，xxx@xxx.com |
